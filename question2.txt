@@ -1,0 +1,1 @@
+Testei as funções para 5 pokemons e funcionou, a lista está completa com os 150, porém esse escalonamento para 1.500.000 (sendo bem transparente), eu não tenho recurso técnico ainda para fazê-lo.
